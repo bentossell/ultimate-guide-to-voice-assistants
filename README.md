@@ -451,8 +451,8 @@ Alexa Skills Store App on
 
 *****
 
-### 🚀 [I am working on an experiment](https://www.buildvoices.com/)- A community
-helping facilitate connections to;
+### 🚀 [I am working on an experiment](https://www.buildvoices.com/)- 
+A community helping facilitate connections to;
 
 > - Get a skill made/make skills for people/companies<br> - Find investors active
 > in the field<br> - Intros to other active enthusiasts<br> - Bounce ideas around
@@ -463,8 +463,7 @@ companies
 
 ## 👉 Feel free to [follow and reach out on Twitter](https://twitter.com/bentossell)
 
-## 🙏 Thanks to everyone who looked at this draft very early on! And perhaps I’ll
-see you all [in the newsletter](https://upscri.be/146843-2) or [Build Voices](https://www.buildvoices.com/) 😉
+### 🙏 Thanks to everyone who looked at this draft very early on! And perhaps I’ll see you all [in the newsletter](https://upscri.be/146843-2) or [Build Voices](https://www.buildvoices.com/) 😉
 
 *****
 
