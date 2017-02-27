@@ -1,6 +1,9 @@
-# ultimate-guide-to-voice-assistants
-Curation of startups, resources, people, posts etc in the voice-space
 # Ultimate Guide to Voice Assistants
+Curation of startups, resources, people, posts etc in the voice-space
+
+This is my first guide posted on GitHub, bear with me. You can submit a pull request with anything else you think should be added here.
+
+[Originally posted on Medium](https://medium.com/@bentossell/ultimate-guide-to-voice-assistants-def7d515a27f#.fq4hs7vhg)
 
 ![](https://cdn-images-1.medium.com/max/1200/1*o0WSmUVEkM16AbbRyhTqiQ.jpeg)
 <span class="figcaption_hack">Image credit — [CNET: Kids try to stump
@@ -32,7 +35,7 @@ by VoiceLabs</span>
 Voice-Assistants. [Matt Hartman](https://medium.com/@MattHartman) does the best
 one IMO.
 
-> (*I’m thinking of starting one too —if you’re interested, sign up below!)*
+> *I’m thinking of starting one too —[if you’re interested, sign up!](https://upscri.be/146843-2)*
 
 **🍜 Startups**: Always interesting to see the companies operating in these
 spaces. They are broken down into different categories so you can easily jump
@@ -40,8 +43,7 @@ into ‘Building’, ‘Products’, ‘Analytics’ etc. If you think there are
 need adding,** **[tell me here](https://twitter.com/bentossell)**.**
 
 **🤑 Funding:** This is just to outline some companies/funds that are very
-focused in the space right now. Again, if I’ve missed some worthwhile,** **[tell
-me here](https://twitter.com/bentossell)**.**
+focused in the space right now. Again, if I’ve missed some worthwhile,** **[tell me here](https://twitter.com/bentossell)**.**
 
 **👥 People & Posts:** These are some of the awesome people I follow and have
 come across. I’ve linked them all, you should check them out. If I’ve missed
@@ -416,13 +418,12 @@ with others<br> - Advice & mentorship from experienced individuals<br> -
 Resources and tools to help you build<br> - Discover interesting products and
 companies
 
-#### 👍 Please tap **“♥︎” if you found this useful to help others see it too**
 
 #### 👉 Feel free to [follow and reach out on
 Twitter](https://twitter.com/bentossell)
 
 #### 🙏 Thanks to everyone who looked at this draft very early on! And perhaps I’ll
-see you all in the newsletter or [Build Voices](https://www.buildvoices.com/) 😉
+see you all [in the newsletter](https://upscri.be/146843-2) or [Build Voices](https://www.buildvoices.com/) 😉
 
 *****
 
