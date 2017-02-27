@@ -56,9 +56,8 @@ some worthwhile, you know to [tell me here](https://twitter.com/bentossell)**.**
 
 ### Enjoy 😊!
 
-#### 🚀 I’ve added a little note about 
-[an experiment I’m working on](http://www.buildvoices.com/) at the end of this post. A community helping
-facilitate connections to;
+#### 🚀 I’ve added a little note about [an experiment I’m working on](http://www.buildvoices.com/) at the end of this post. 
+A community helping facilitate connections to;
 
 > - Get a skill made/make skills for people/companies<br> - Find investors active
 > in the field<br> - Intros to other active enthusiasts<br> - Bounce ideas around
