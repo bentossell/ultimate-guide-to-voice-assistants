@@ -108,6 +108,8 @@ companies
 
 [ReadMultiplex](http://readmultiplex.com/)
 
+[Hackernoon - Alexa](https://hackernoon.com/tagged/alexa)
+
 
 ### 📜 General news in space (not Voice specific)
 [Inside - Technically Sentient](https://inside.com/technically-sentient)
