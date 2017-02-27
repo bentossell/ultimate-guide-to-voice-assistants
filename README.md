@@ -26,9 +26,10 @@ That is not what this post is about.
 
 "2017 will be a defining moment for voice. Voice-first devices shipped by year:
 
-2015: 1.7 million 
-2016: 6.6 million 
-2017: 24.5 million"<span class="figcaption_hack">[The 2017 Voice Report](http://voicelabs.co/2017/01/15/the-2017-voice-report/)
+2015: 1.7 million,  
+2016: 6.6 million,  
+2017: 24.5 million" 
+<span class="figcaption_hack">[The 2017 Voice Report](http://voicelabs.co/2017/01/15/the-2017-voice-report/)
 by VoiceLabs</span>
 
 *****
@@ -44,10 +45,10 @@ one IMO.
 **🍜 Startups**: Always interesting to see the companies operating in these
 spaces. They are broken down into different categories so you can easily jump
 into ‘Building’, ‘Products’, ‘Analytics’ etc. If you think there are some that
-need adding,** **[tell me here](https://twitter.com/bentossell)**.**
+need adding,[tell me here](https://twitter.com/bentossell)**.**
 
 **🤑 Funding:** This is just to outline some companies/funds that are very
-focused in the space right now. Again, if I’ve missed some worthwhile,** **[tell me here](https://twitter.com/bentossell)**.**
+focused in the space right now. Again, if I’ve missed some worthwhile,[tell me here](https://twitter.com/bentossell)**.**
 
 **👥 People & Posts:** These are some of the awesome people I follow and have
 come across. I’ve linked them all, you should check them out. If I’ve missed
@@ -69,7 +70,7 @@ companies
 
 ### 📰 News
 
-#### 🗞 Newsletters
+### 🗞 Newsletters
 [Hearing Voices](https://www.getrevue.co/profile/hearingvoices)
 
 [The Official Amazon Alexa Developer Newsletter](https://developer.amazon.com/alexa-skills-kit/alexa-developer-newsletter-subscription)
@@ -77,7 +78,7 @@ companies
 [Made By Google](https://madeby.google.com/home/learn/)
 > *(General Google news + Google Home. Subscribe at bottom of their page)*
 
-#### 🖥 Websites/Sources
+### 🖥 Websites/Sources
 [Medium - Alexa](https://medium.com/tag/alexa)
 
 [Medium - Voice Assistant](https://medium.com/tag/voice-assistant)
@@ -109,7 +110,7 @@ companies
 [ReadMultiplex](http://readmultiplex.com/)
 
 
-#### 📜 General news in space (not Voice specific)
+### 📜 General news in space (not Voice specific)
 [Inside - Technically Sentient](https://inside.com/technically-sentient)
 
 [Bot Publication](https://botpublication.com/)
@@ -132,7 +133,7 @@ Pera](https://twitter.com/ompemi) and the [Reply.ai](https://www.reply.ai/) team
 
 ### 🍜 Startups
 
-#### 🗣 Platforms
+### 🗣 Platforms
 [Amazon Developer](https://developer.amazon.com/alexa/agencies-and-tools)
 
 [Actions on Google](https://developers.google.com/actions/)
@@ -146,7 +147,7 @@ Pera](https://twitter.com/ompemi) and the [Reply.ai](https://www.reply.ai/) team
 [Viv](http://viv.ai/)
 
 
-#### 👔 Companies
+### 👔 Companies
 
 [Capito Systems](http://www.capitosystems.com/)
 
@@ -163,7 +164,7 @@ Baidu](https://www.bloomberg.com/gadfly/articles/2017-02-16/baidu-failing-fast-i
 
 [Mobvoi](http://www.chumenwenwen.com/en/site/index.html)
 
-#### ☁️ Cloud Services
+### ☁️ Cloud Services
 
 [Amazon Lex](https://aws.amazon.com/lex/)
 
@@ -174,9 +175,9 @@ Baidu](https://www.bloomberg.com/gadfly/articles/2017-02-16/baidu-failing-fast-i
 [Microsoft Cognitive
 Services](https://www.microsoft.com/cognitive-services/en-us/)
 
-#### 🛠 Build
+### 🛠 Build
 
-#### - SDKs & Frameworks
+### - SDKs & Frameworks
 
 [Assist](http://www.assi.st/)
 
@@ -202,7 +203,7 @@ Services](https://www.microsoft.com/cognitive-services/en-us/)
 
 [Gomix](https://gomix.com/)
 
-#### - Extras
+### - Extras
 
 This post by [Brian Donohue](https://medium.com/@bthdonohue) is a great place to
 get started: [Build your first Alexa skill](https://medium.com/@bthdonohue/build-your-first-alexa-skill-8a37dc3103d6)
@@ -218,7 +219,7 @@ get started: [Build your first Alexa skill](https://medium.com/@bthdonohue/build
 [alexa message builder](https://www.npmjs.com/package/alexa-message-builder)
 
 
-#### 💼 Agencies
+### 💼 Agencies
 
 [Xandra](https://www.xandra.com/)
 
@@ -273,7 +274,7 @@ Page&utm_campaign=Amazon Alexa Partner Page)
 
 [Future of Voice](http://www.futureofvoice.com/)
 
-#### 📈 Analytics
+### 📈 Analytics
 
 [VoiceLabs.co](http://voicelabs.co/)
 
@@ -283,7 +284,7 @@ Page&utm_campaign=Amazon Alexa Partner Page)
 
 [dashbot](https://www.dashbot.io/)
 
-#### 🎙 Products
+### 🎙 Products
 
 Alexa Skills Store App on
 [iOS](https://itunes.apple.com/us/app/amazon-alexa/id944011620?mt=8) and
@@ -291,8 +292,7 @@ Alexa Skills Store App on
 
 [Unofficial Alexa Skills Store](https://www.alexaskillstore.com/)
 
-[OK Google](http://ok-google.io/) — list of commands that you can ask Google’s
-voice assistant.
+[OK Google](http://ok-google.io/)
 
 [Reverb 2.0](https://reverb.ai/)
 
@@ -306,7 +306,7 @@ voice assistant.
 
 [Hound](http://soundhound.com/hound)
 
-#### 🤖 Hardware
+### 🤖 Hardware
 
 [Nucleus](https://nucleuslife.com/)
 
@@ -366,7 +366,7 @@ voice assistant.
 
 [Betaworks](https://betaworks.com/voicecamp/) — [Get Support from the Alexa Team at Betaworks’Voicecamp](https://developer.amazon.com/blogs/post/8255d18f-b14a-4996-8ee6-e09719238ace/get-support-from-the-alexa-team-at-betaworks-voicecamp)
 
-#### 💵 Alexa Fund (All the companies announced)
+### 💵 Alexa Fund (All the companies announced)
 
 [Sutro](https://mysutro.com/)
 
@@ -462,10 +462,9 @@ Resources and tools to help you build<br> - Discover interesting products and
 companies
 
 
-#### 👉 Feel free to [follow and reach out on
-Twitter](https://twitter.com/bentossell)
+## 👉 Feel free to [follow and reach out on Twitter](https://twitter.com/bentossell)
 
-#### 🙏 Thanks to everyone who looked at this draft very early on! And perhaps I’ll
+## 🙏 Thanks to everyone who looked at this draft very early on! And perhaps I’ll
 see you all [in the newsletter](https://upscri.be/146843-2) or [Build Voices](https://www.buildvoices.com/) 😉
 
 *****
