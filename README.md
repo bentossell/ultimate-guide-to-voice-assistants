@@ -24,7 +24,11 @@ That is not what this post is about.
 
 ### 💫 Here are some that I find particularly useful 💫
 
-<span class="figcaption_hack">[The 2017 Voice Report](http://voicelabs.co/2017/01/15/the-2017-voice-report/)
+"2017 will be a defining moment for voice. Voice-first devices shipped by year:
+
+2015: 1.7 million 
+2016: 6.6 million 
+2017: 24.5 million"<span class="figcaption_hack">[The 2017 Voice Report](http://voicelabs.co/2017/01/15/the-2017-voice-report/)
 by VoiceLabs</span>
 
 *****
@@ -51,8 +55,8 @@ some worthwhile, you know to [tell me here](https://twitter.com/bentossell)**.**
 
 ### Enjoy 😊!
 
-#### 🚀 I’ve added a little note about [an experiment I’m working
-on](http://www.buildvoices.com/) at the end of this post. A community helping
+#### 🚀 I’ve added a little note about 
+[an experiment I’m working on](http://www.buildvoices.com/) at the end of this post. A community helping
 facilitate connections to;
 
 > - Get a skill made/make skills for people/companies<br> - Find investors active
@@ -66,15 +70,57 @@ companies
 ### 📰 News
 
 #### 🗞 Newsletters
+[Hearing Voices](https://www.getrevue.co/profile/hearingvoices)
 
-[The Official Amazon Alexa Developer
-Newsletter](https://developer.amazon.com/alexa-skills-kit/alexa-developer-newsletter-subscription)
+[The Official Amazon Alexa Developer Newsletter](https://developer.amazon.com/alexa-skills-kit/alexa-developer-newsletter-subscription)
 
-> *(General Google news + Google Home. Subscribe at bottom of page)*
+[Made By Google](https://madeby.google.com/home/learn/)
+> *(General Google news + Google Home. Subscribe at bottom of their page)*
 
 #### 🖥 Websites/Sources
+[Medium - Alexa](https://medium.com/tag/alexa)
+
+[Medium - Voice Assistant](https://medium.com/tag/voice-assistant)
+
+[Medium - Amazon Echo](https://medium.com/tag/amazon-echo)
+
+[Medium - Google Home](https://medium.com/tag/google-home)
+
+[Medium - Siri](https://medium.com/tag/siri)
+
+[Medium - Voice](https://medium.com/tag/voice)
+
+[VentureBeat - Voice Assistants](http://venturebeat.com/search/?q=voice%20assistant)
+
+[Reddit - Alexa](https://www.reddit.com/r/alexa/)
+
+[Reddit - Amazon Echo](https://www.reddit.com/r/amazonecho/)
+
+[Reddit - Google Home](https://www.reddit.com/r/googlehome/)
+
+[WIRED - Voice Assistants](https://www.wired.com/?s=voice+assistant)
+
+[TechCrunch - Alexa](https://techcrunch.com/tag/alexa/)
+
+[TechCrunch - Google Home](https://techcrunch.com/tag/google-home/)
+
+[VoiceLabs](http://voicelabs.co/blog/)
+
+[ReadMultiplex](http://readmultiplex.com/)
+
 
 #### 📜 General news in space (not Voice specific)
+[Inside - Technically Sentient](https://inside.com/technically-sentient)
+
+[Bot Publication](https://botpublication.com/)
+
+[Go Mainstrm](http://gomainstrm.com/)
+
+[Chatbots Magazine](https://chatbotsmagazine.com/)
+
+[Locutius](http://tinyletter.com/locutius)
+
+[O'Reilly Bots Podcast](https://www.oreilly.com/topics/oreilly-bots-podcast)
 
 [Messaging Weekly](http://www.messagingweekly.com/) — curated by the
 [Smooch](https://smooch.io/) team
@@ -87,6 +133,18 @@ Pera](https://twitter.com/ompemi) and the [Reply.ai](https://www.reply.ai/) team
 ### 🍜 Startups
 
 #### 🗣 Platforms
+[Amazon Developer](https://developer.amazon.com/alexa/agencies-and-tools)
+
+[Actions on Google](https://developers.google.com/actions/)
+
+[Mycroft](https://mycroft.ai/)
+
+[Microsoft Cortana](https://www.microsoft.com/en/mobile/experiences/cortana/)
+
+[Apple Siri](http://www.apple.com/uk/ios/siri/)
+
+[Viv](http://viv.ai/)
+
 
 #### 👔 Companies
 
@@ -147,12 +205,18 @@ Services](https://www.microsoft.com/cognitive-services/en-us/)
 #### - Extras
 
 This post by [Brian Donohue](https://medium.com/@bthdonohue) is a great place to
-get started:
+get started: [Build your first Alexa skill](https://medium.com/@bthdonohue/build-your-first-alexa-skill-8a37dc3103d6)
 
 [AlexaTutorial](https://alexatutorial.com/)
 
-[How to Build your First Amazon Alexa Skill (eBook) by Rocket
-Insights](http://www.rocketinsights.com/work/alexa/)
+[How to Build your First Amazon Alexa Skill (eBook) by Rocket Insights](http://www.rocketinsights.com/work/alexa/)
+
+[Alexa, what's for lunch?](https://iot-for-all.com/alexa-whats-for-lunch-fb02062e54b9?gi=e74cd4f8c4ea)
+
+[Build an Alexa Skill in 7 Minutes Flat with Node.js and StdLib](https://hackernoon.com/build-an-alexa-skill-in-7-minutes-flat-with-node-js-and-stdlib-70611f58c37f?gi=b4de0b1bba57)
+
+[alexa message builder](https://www.npmjs.com/package/alexa-message-builder)
+
 
 #### 💼 Agencies
 
@@ -230,12 +294,23 @@ Alexa Skills Store App on
 [OK Google](http://ok-google.io/) — list of commands that you can ask Google’s
 voice assistant.
 
+[Reverb 2.0](https://reverb.ai/)
+
+[Clarke.ai](https://clarke.ai/)
+
+[Mylestone](https://mylestone.com/)
+
+[EchoSim](https://echosim.io/welcome)
+
+[astra](http://www.astraapp.com/)
+
+[Hound](http://soundhound.com/hound)
+
 #### 🤖 Hardware
 
 [Nucleus](https://nucleuslife.com/)
 
-[Jam
-Voice](https://www.jamaudio.com/jam-voicetm-portable-wifi-and-bluetooth-speaker-with-amazon-alexa)
+[Jam Voice](https://www.jamaudio.com/jam-voicetm-portable-wifi-and-bluetooth-speaker-with-amazon-alexa)
 
 [Ivee](https://helloivee.com/)
 
@@ -281,8 +356,7 @@ Voice](https://www.jamaudio.com/jam-voicetm-portable-wifi-and-bluetooth-speaker-
 
 [Alexa Fund](https://developer.amazon.com/alexa-fund)
 
-[Alexa Accelerator, powered by
-Techstars](http://www.techstars.com/content/accelerators/announcing-alexa-accelerator-powered-techstars/)
+[Alexa Accelerator, powered by Techstars](http://www.techstars.com/content/accelerators/announcing-alexa-accelerator-powered-techstars/)
 
 [Lightspeed Ventures](http://lsvp.com/)
 
@@ -290,9 +364,7 @@ Techstars](http://www.techstars.com/content/accelerators/announcing-alexa-accele
 
 [NextView Ventures](http://nextviewventures.com/)
 
-[Betaworks](https://betaworks.com/voicecamp/) — [Get Support from the Alexa Team
-at Betaworks’
-Voicecamp](https://developer.amazon.com/blogs/post/8255d18f-b14a-4996-8ee6-e09719238ace/get-support-from-the-alexa-team-at-betaworks-voicecamp)
+[Betaworks](https://betaworks.com/voicecamp/) — [Get Support from the Alexa Team at Betaworks’Voicecamp](https://developer.amazon.com/blogs/post/8255d18f-b14a-4996-8ee6-e09719238ace/get-support-from-the-alexa-team-at-betaworks-voicecamp)
 
 #### 💵 Alexa Fund (All the companies announced)
 
@@ -336,76 +408,47 @@ Voicecamp](https://developer.amazon.com/blogs/post/8255d18f-b14a-4996-8ee6-e0971
 > [GV](https://medium.com/@gv.com). [On Twitter](https://twitter.com/mgsiegler)
 
 > [Matt Hartman](https://medium.com/@MattHartman)- partner at
-> [betaworks](https://medium.com/@betaworks) + runs [Hearing Voices
-Newsletter](http://www.hearingvoices.xyz/). [On
-Twitter](https://twitter.com/MattHartman)
+> [betaworks](https://medium.com/@betaworks) + runs [Hearing Voices Newsletter](http://www.hearingvoices.xyz/). [On Twitter](https://twitter.com/MattHartman)
 
-> [Sarah Guo](https://medium.com/@saranormous)— people-first investor [Greylock
-> Partners](https://medium.com/@greylockvc). [On
-Twitter](https://twitter.com/saranormous)
+> [Sarah Guo](https://medium.com/@saranormous)— people-first investor [Greylock Partners](https://medium.com/@greylockvc). [On Twitter](https://twitter.com/saranormous)
 
-> [Sarah Perez](https://medium.com/@sarahperez)— Reporter at TechCrunch. [On
-> Twitter](https://twitter.com/sarahintampa)
+> [Sarah Perez](https://medium.com/@sarahperez)— Reporter at TechCrunch. [On Twitter](https://twitter.com/sarahintampa)
 
-> [Patrick Montague](https://medium.com/@pmontee)— vp at
-> [betaworks](https://medium.com/@betaworks). [On
-Twitter](https://twitter.com/pmontee)
+> [Patrick Montague](https://medium.com/@pmontee)— vp at [betaworks](https://medium.com/@betaworks). [On Twitter](https://twitter.com/pmontee)
 
-> [Owen Williams](https://medium.com/@ow)— Freelance writer + developer. [On
-> Twitter](https://twitter.com/ow)
+> [Owen Williams](https://medium.com/@ow)— Freelance writer + developer. [On Twitter](https://twitter.com/ow)
 
-> [Shane Mac](https://medium.com/@shanemac)— CEO Assist. [On
-> Twitter](https://twitter.com/ShaneMac)
+> [Shane Mac](https://medium.com/@shanemac)— CEO Assist. [On Twitter](https://twitter.com/ShaneMac)
 
-> [Hugh Durkin](https://medium.com/@hughdurkin)— Senior Product Manager, Intercom.
-> [On Twitter](https://twitter.com/hughdurkin)
+> [Hugh Durkin](https://medium.com/@hughdurkin)— Senior Product Manager, Intercom.[On Twitter](https://twitter.com/hughdurkin)
 
-> [Aaron Batalion](https://medium.com/@abatalion)— Partner,
-> [Lightspeed](https://medium.com/@lightspeedvp). [On
-Twitter](https://twitter.com/abatalion)
+> [Aaron Batalion](https://medium.com/@abatalion)— Partner,[Lightspeed](https://medium.com/@lightspeedvp). [On Twitter](https://twitter.com/abatalion)
 
-> [Johna Paolino](https://medium.com/@johnapaolino)— UX / product design [General
-> Assembly](https://medium.com/@ga). [On Twitter](https://twitter.com/johnapao)
+> [Johna Paolino](https://medium.com/@johnapaolino)— UX / product design [General Assembly](https://medium.com/@ga). [On Twitter](https://twitter.com/johnapao)
 
-> [Adam Marchick](https://twitter.com/adammStanford)— Trying to build a better
-> company, every day [@VoiceLabsCo](https://twitter.com/VoiceLabsCo) and
-[Kahuna](https://medium.com/@Kahuna).
+> [Adam Marchick](https://twitter.com/adammStanford)— Trying to build a better company, every day [@VoiceLabsCo](https://twitter.com/VoiceLabsCo) and [Kahuna](https://medium.com/@Kahuna).
 
-> [Alexandre Linares](https://medium.com/@linaresa)— Co-Founder
-> [@VoiceLabsCo](https://twitter.com/VoiceLabsCo) / EIR @ The Chernin Group. [On
-Twitter](https://twitter.com/linaresa)
+> [Alexandre Linares](https://medium.com/@linaresa)— Co-Founder [@VoiceLabsCo](https://twitter.com/VoiceLabsCo) / EIR @ The Chernin Group. [On Twitter](https://twitter.com/linaresa)
 
-> [Oren Jacob](https://medium.com/@orenjacob)— CEO and CoFounder, PullString.
-> Prev, Pixar. [On Twitter](https://twitter.com/orenjacob)
+> [Oren Jacob](https://medium.com/@orenjacob)— CEO and CoFounder, PullString. Prev, Pixar. [On Twitter](https://twitter.com/orenjacob)
 
-> [Brian Roemmele](https://medium.com/@brianroemmele) — Founder + Editor at
-> [Multiplex](http://readmultiplex.com/). [On
-Twitter](https://twitter.com/BrianRoemmele)
+> [Brian Roemmele](https://medium.com/@brianroemmele) — Founder + Editor at [Multiplex](http://readmultiplex.com/). [On Twitter](https://twitter.com/BrianRoemmele)
 
-> [Chris Messina](https://medium.com/@chrismessina)— Invented the hashtag; X Uber;
-> Xoogler. [On Twitter](https://twitter.com/chrismessina)
+> [Chris Messina](https://medium.com/@chrismessina)— Invented the hashtag; X Uber; Xoogler. [On Twitter](https://twitter.com/chrismessina)
 
-> [Cathy Pearl](https://medium.com/@cpearl42)— Director of User Experience
-> [@Sense_ly](https://twitter.com/Sense_ly). Author of the O’Reilly book Designing
-Voice User Interfaces. [On Twitter](https://twitter.com/cpearl42)
+> [Cathy Pearl](https://medium.com/@cpearl42)— Director of User Experience [@Sense_ly](https://twitter.com/Sense_ly). Author of the O’Reilly book Designing Voice User Interfaces. [On Twitter](https://twitter.com/cpearl42)
 
-> [Trip ODell](https://medium.com/@tripodell)— Strategically-oriented product
-> design leader [@Amazon](https://twitter.com/Amazon). [On
-Twitter](https://twitter.com/tripodell)
+> [Trip ODell](https://medium.com/@tripodell)— Strategically-oriented product design leader [@Amazon](https://twitter.com/Amazon). [On Twitter](https://twitter.com/tripodell)
 
-> [David Beisel](https://medium.com/@davidbeisel)— Co-founder & Partner at
-> NextView Ventures. [On Twitter](https://twitter.com/davidbeisel)
+> [David Beisel](https://medium.com/@davidbeisel)— Co-founder & Partner at NextView Ventures. [On Twitter](https://twitter.com/davidbeisel)
 
 > Nithya Thadani — CEO of [Rain](https://rain.agency/)
 
-> [Dave Balter](https://medium.com/@davebalter)—I’m an Innovation-Obsessed Founder
-> at Mylestone. [On Twitter](https://twitter.com/DaveBalter)
+> [Dave Balter](https://medium.com/@davebalter)—I’m an Innovation-Obsessed Founder at Mylestone. [On Twitter](https://twitter.com/DaveBalter)
 
-> [Jeremy Liew](https://medium.com/@jeremyliew)— Partner at Lightspeed Venture
-> Partners. [On Twitter](https://twitter.com/jeremysliew)
+> [Jeremy Liew](https://medium.com/@jeremyliew)— Partner at Lightspeed Venture Partners. [On Twitter](https://twitter.com/jeremysliew)
 
-> [Dag Kittlaus](https://medium.com/@Dagk)— Co-Founder/CEO Siri & Viv Labs. [On
-> Twitter](https://twitter.com/Dagk)
+> [Dag Kittlaus](https://medium.com/@Dagk)— Co-Founder/CEO Siri & Viv Labs. [On Twitter](https://twitter.com/Dagk)
 
 *****
 
@@ -429,8 +472,6 @@ see you all [in the newsletter](https://upscri.be/146843-2) or [Build Voices](ht
 
 #### Side Note:
 
-> I have ‘borrowed’ this template from [The Non-Technical Guide to Machine
-> Learning & Artificial
-Intelligence](https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0#.gg8xdh2yb)
+> I have ‘borrowed’ this template from [The Non-Technical Guide to Machine Learning & ArtificialIntelligence](https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0#.gg8xdh2yb)
 which is an awesome post & newsletter I use to learn about Machine Learning.
 Thanks [Sam DeBrule](https://medium.com/@samdebrule) *🙌*
