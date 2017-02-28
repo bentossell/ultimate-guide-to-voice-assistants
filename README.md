@@ -204,6 +204,8 @@ Services](https://www.microsoft.com/cognitive-services/en-us/)
 
 [Gomix](https://gomix.com/)
 
+[IFTTT](https://ifttt.com/amazon_alexa)
+
 ### - Extras
 
 This post by [Brian Donohue](https://medium.com/@bthdonohue) is a great place to
@@ -285,6 +287,8 @@ Page&utm_campaign=Amazon Alexa Partner Page)
 
 [dashbot](https://www.dashbot.io/)
 
+[Botanalytics](http://botanalytics.co/)
+
 ### 🎙 Products
 
 Alexa Skills Store App on
@@ -306,6 +310,8 @@ Alexa Skills Store App on
 [astra](http://www.astraapp.com/)
 
 [Hound](http://soundhound.com/hound)
+
+[Finie](https://clinc.com/finie.html)
 
 ### 🤖 Hardware
 
